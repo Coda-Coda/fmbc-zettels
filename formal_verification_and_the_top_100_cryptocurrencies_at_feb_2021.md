@@ -1,6 +1,6 @@
 # Formal Verification and the top 100 cryptocurrencies
 
-An interesting overview of the top 100 cryptocurrencies by market capitalisation available [here](http://ethanfast.com/top-crypto.html) included a number of [ERC-20 tokens](erc20_tokens.md). A natural question (for me) to wonder was how many of these tokens had been formally verified in some way to ensure that they were not buggy or vulnerable to exploits.
+An interesting overview of the top 100 cryptocurrencies by market capitalisation available [here](http://ethanfast.com/top-crypto.html) included a number of [[erc20_tokens]]. A natural question (for me) to wonder was how many of these tokens had been formally verified in some way to ensure that they were not buggy or vulnerable to exploits.
 
 Please note that this is not an example of thorough research into each ERC-20 token, the method I used was simply to Google the token's name + "formal verification" and examine the top few results. (If I have missed something or mischaracterised something, please feel free to click the edit button at the bottom and submit a pull request, or raise an issue in the Git repository this article is built from).
 
