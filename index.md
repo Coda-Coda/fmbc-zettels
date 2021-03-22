@@ -6,7 +6,7 @@ The name "Zettelkasten" means "idea box", for more information see [this informa
 
 ----------
 
-👉 [CONTENTS](https://coda-coda.github.io/zettels/impulse)
+👉 [CONTENTS](https://coda-coda.github.io/fmbc-zettels/impulse)
 
 ----------
 
