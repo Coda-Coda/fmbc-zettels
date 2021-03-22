@@ -1,4 +1,4 @@
-# Formal Verification and the top 100 cryptocurrencies
+# Formal verification and the top 10 crypto-tokens
 
 An interesting overview of the top 100 cryptocurrencies by market capitalisation available [here](http://ethanfast.com/top-crypto.html) included a number of [[erc20_tokens]]. A natural question (for me) to wonder was how many of these tokens had been formally verified in some way to ensure that they were not buggy or vulnerable to exploits.
 
