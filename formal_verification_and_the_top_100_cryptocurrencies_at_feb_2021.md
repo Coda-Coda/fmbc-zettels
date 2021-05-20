@@ -10,7 +10,7 @@ It seems to me that no token I looked at had formal verification completed on it
 
 Here's a summary with links to the audit reports:
 
-## Formally Verified
+## Formally Verified	
 
 | ERC-20 Token | Formal Verification completed by             | Link                                                 |
 | :----------- | :------------------------------------------- | :--------------------------------------------------- |
